@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toggle_button_text">Lights</string>
+    <string name="lights_off">Lights off</string>
+    <string name="lights_on">Lights on</string>
+
+</resources>
